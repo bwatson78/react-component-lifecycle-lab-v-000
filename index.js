@@ -5,4 +5,4 @@ import App from './components/App';
 
 ReactDOM.render(<App />, document.getElementById('main'));
 
-require('./test/index-test.js'); // Leave this in!
+//require('./test/index-test.js'); // Leave this in!
